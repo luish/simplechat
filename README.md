@@ -2,7 +2,7 @@
 
 A simple chat system using the Flask framework (python) and MongoDB.
 
-![simplechat](http://luish.github.com/simpleschat/preview.png)
+![simplechat](https://raw.github.com/luish/simplechat/master/preview.png)
 
 ## Requirements
 
